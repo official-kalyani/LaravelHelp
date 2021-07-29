@@ -1,4 +1,4 @@
-# Laravel Tips
+# Laravel Tips kalyani
 
 Awesome Laravel tips and tricks for all artisans. PR and ideas are welcome!  
 An idea by [PovilasKorop](https://github.com/PovilasKorop) and [MarceauKa](https://github.com/MarceauKa).
